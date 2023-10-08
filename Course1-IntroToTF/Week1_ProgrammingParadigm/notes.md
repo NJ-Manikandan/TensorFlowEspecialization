@@ -1,12 +1,4 @@
-# Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
-## A new program paradigm
-
-![alt text](https://github.com/Immich/TensorFlowEspecialization/blob/master/Course-1/imgs/paradigms.png "Programming paradigms")
-
-## The "Hello World" of Machine Learning
-
-Here's our first line of code:
-
+# TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 ```python
 model = keras.Sequential([keras.layers.Dense(units = 1, input_shape[1])])
 ```
