@@ -1,7 +1,4 @@
-# Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
-## A new program paradigm
-
-![alt text](https://github.com/Immich/TensorFlowEspecialization/blob/master/Course-1/imgs/paradigms.png "Programming paradigms")
+# TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 
 ## The "Hello World" of Machine Learning
 
